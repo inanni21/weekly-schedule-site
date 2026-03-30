@@ -1,1 +1,1 @@
-# weekly-schedule-site
+# Weekly Schedule Site
